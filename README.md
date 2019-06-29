@@ -49,7 +49,7 @@ if (count($route) > 1) {
 
 ## API
 
-`add($route, $value)` - Add route. `$value` is a string in any form. See examples below.
+`add($route, $value)` - Add route. `$value` is a string in any form.
 
 `find($route)` - Find route. Returns compiled `$value` or `false` if not found.
 
